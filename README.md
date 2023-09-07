@@ -11,7 +11,7 @@ state-of-the-art cross-modal binaural audio generation methods have weak general
 width="1000px"></p>
 
 ## Demo Video
-Watch the [demo video](https://www.kaggle.com/datasets/shulinliu/musicecan-demo). 
+Watch the [demo video]((https://drive.google.com/file/d/1e4DLtLZcNuG0wR1EuVswiCJGRSP0cACb/view?usp=sharing)). 
 <p align="center">
 <img src="Demo.jpg" alt="Schema represention"
 width="600px"></p>
