@@ -16,4 +16,9 @@ Watch the [demo video](https://drive.google.com/file/d/1e4DLtLZcNuG0wR1EuVswiCJG
 <img src="Demo.jpg" alt="Schema represention"
 width="600px"></p>
 
-Data: coming soon!
+Dataset:
+This repo contains the YouTube video IDs for the videos used in the [BinauralMusic](https://ieeexplore.ieee.org/abstract/document/10448509)
+
+'BinauralMusic_solo.json' contains the YouTube video IDs for the solo performances of 9 kinds of instrument.
+'BinauralMusic_duet_trio.json' contains the YouTube video IDs for the duet and trio performances.
+*The number of videos differ sightly from the papers due to the fact that some of the videos disappeared from the YouTube platform for unknown reasons as we sorted out the IDs of the data used afterwards.
